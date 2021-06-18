@@ -1,0 +1,4 @@
+program.elf
+src/*.o
+*.o
+program.bin
